@@ -1,0 +1,14 @@
+{
+  "name": "smart-contracts",
+  "license": "MIT",
+  "repository": "BetSwirl/Smart-Contracts",
+  "scripts": {
+    "compile": "hardhat compile"
+  },
+  "devDependencies": {
+    "@chainlink/contracts": "^1.2.0",
+    "@openzeppelin/contracts": "^4.1.0",
+    "@primitivefi/hardhat-dodoc": "^0.2.3",
+    "hardhat": "^2.2.1"
+  }
+}
